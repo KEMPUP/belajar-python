@@ -15,3 +15,5 @@ print (isKurangDari)
 #++++++++++++3---------
 isKurangDari = (inputUser > 10)
 print (isKurangDari)
+
+#tes
