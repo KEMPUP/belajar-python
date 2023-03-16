@@ -17,3 +17,4 @@ isKurangDari = (inputUser > 10)
 print (isKurangDari)
 
 #tes
+#tes kedua
