@@ -104,5 +104,3 @@ print ("Lebih dari 11 = ",isLebihDariB)
 #++++0-----5+++++8------11+++++
 isCorrect = isLebihDariA or isKurangDariA or isLebihDariB or isKurangDariB
 print ("angka yang anda masukkan:", isCorrect)
-
-selesai
