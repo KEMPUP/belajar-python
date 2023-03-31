@@ -102,5 +102,6 @@ isLebihDariB = inputUser > 11
 print ("Lebih dari 11 = ",isLebihDariB)
 
 #++++0-----5+++++8------11+++++
-isCorrect = isLebihDariA or isKurangDariA or isLebihDariB or isKurangDariB
+isCorrect = (isLebihDariA and isKurangDariA) or (isLebihDariB and isKurangDariB)
 print ("angka yang anda masukkan:", isCorrect)
+ 
