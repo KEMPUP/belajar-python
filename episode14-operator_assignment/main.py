@@ -74,3 +74,4 @@ d >>=2
 print ("nilai d >>2, nilai d menjadi",format(d,'04b'))
 d <<=1
 print ("nilai d <<2, nilai d menjadi",format(d,'04b'))
+#finish
